@@ -1,0 +1,19 @@
+{
+  "name": "com.dragonbones.unity",
+  "version": "5.6.300",
+  "displayName": "Dragon Bones for Unity",
+  "description": "Draongbones is a free animation editor. \nThe download link is http://dragonbones.com \n\n It works by converting dragonbones animation data into unity native animation. \n\nCopyright (c) 2012-2018 The DragonBones team and other contributors.",
+  "unity": "2021.3",
+  "unityRelease": "11f1",
+  "keywords": [
+    "2d",
+    "animation",
+    "dragonbones"
+  ],
+  "author": {
+    "name": "DragonBones",
+    "email": "dragonbones@egret.com",
+    "url": "http://www.dragonbones.com/"
+  },
+  "type": "tool"
+}
